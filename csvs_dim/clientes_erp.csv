@@ -1,0 +1,7 @@
+COD_CLIENTE,NOMBRE_CLIENTE,GENERO,RANGO_EDAD,CIUDAD,SEGMENTO
+CLI0001,Juliana García Medina,F,56-65,Medellín,vip
+ cli0002 ,David Muñoz Jiménez,m,56-65,Bogotá,Regular
+CLI0003,Natalia Castro Rodríguez,F,46-55,Bogotá,Regular
+CLI0081, Laura Pérez Rojas ,f,26-35,Bucaramanga,nuevo
+CLI0082,Andrés Gómez Silva,M,36-45,Cali,REGULAR
+CLI0081, Laura Pérez Rojas ,F,26-35,Bucaramanga,Nuevo

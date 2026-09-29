@@ -1,0 +1,6 @@
+COD_PRODUCTO,NOMBRE_PRODUCTO,MARCA,CATEGORIA,PROVEEDOR,PAIS_PROVEEDOR,PRECIO_LISTADO
+PRD001,Audífonos inalámbricos,SoundMax,Audio,Global Sound Supplies,China,79900
+ prd002 ,Audífonos con cable,SoundMax,Audio,Global Sound Supplies,China,52000
+PRD003,Parlante Bluetooth portátil,EchoWave,Audio,ShenzhenTech Trading,China,199000
+PRD039, Cámara web Full HD ,VisionPro,Accesorios,USA Gadgets Inc.,Estados Unidos,135000
+PRD039,Cámara web Full HD,VisionPro,Accesorios,USA Gadgets Inc.,Estados Unidos,139000
